@@ -1,4 +1,11 @@
 - 👋 Hi, I’m @FrancoCarra
+- WEB DEVELOPMENT
+- JAVASCRIPT
+- REACT
+- BACKEND
+- MONGODB
+- SWIFT
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning PM
 - 💞️ I’m looking to collaborate on ...
